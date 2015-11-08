@@ -40,7 +40,7 @@ namespace ESSUserChanger
         {
             try
             {
-                string connectionString = "Data Source=OMIW2310.orthman.local;Initial Catalog=AbraEmployeeSelfService;Integrated Security=False;user=sa;pwd=2000";
+                string connectionString = "Data Source=myServer.domain.local;Initial Catalog=AbraEmployeeSelfService;Integrated Security=False;user=sa;pwd=2000";
                 using (SqlConnection connection = new SqlConnection(connectionString))
                 {
                     connection.Open();
