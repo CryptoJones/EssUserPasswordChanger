@@ -1,0 +1,12 @@
+C:\Users\akclark\Desktop\ESS_User_Changer\ESSUserChanger\bin\Debug\ESSUserChanger.exe.config
+C:\Users\akclark\Desktop\ESS_User_Changer\ESSUserChanger\obj\Debug\ESSUserChanger.csprojResolveAssemblyReference.cache
+C:\Users\akclark\Desktop\ESS_User_Changer\ESSUserChanger\obj\Debug\ESSUserChanger.GlobalVariable.resources
+C:\Users\akclark\Desktop\ESS_User_Changer\ESSUserChanger\obj\Debug\ESSUserChanger.PasswordSelection.resources
+C:\Users\akclark\Desktop\ESS_User_Changer\ESSUserChanger\obj\Debug\ESSUserChanger.Properties.Resources.resources
+C:\Users\akclark\Desktop\ESS_User_Changer\ESSUserChanger\obj\Debug\ESSUserChanger.SpaceScreen.resources
+C:\Users\akclark\Desktop\ESS_User_Changer\ESSUserChanger\obj\Debug\ESSUserChanger.csproj.GenerateResource.Cache
+C:\Users\akclark\Desktop\ESS_User_Changer\ESSUserChanger\obj\Debug\ESSUserChanger.exe
+C:\Users\akclark\Desktop\ESS_User_Changer\ESSUserChanger\obj\Debug\ESSUserChanger.pdb
+C:\Users\akclark\Desktop\ESSUserPasswordChanger\ESSUserChanger\bin\Debug\ESSUserChanger.exe.config
+C:\Users\akclark\Desktop\ESSUserPasswordChanger\ESSUserChanger\obj\Debug\ESSUserChanger.exe
+C:\Users\akclark\Desktop\ESSUserPasswordChanger\ESSUserChanger\obj\Debug\ESSUserChanger.pdb
